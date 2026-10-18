@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" width="390" height="844" font-family="-apple-system, 'SF Pro Text', system-ui, sans-serif">
+<rect width="390" height="844" fill="#101827"/>
+<text x="20" y="96" fill="#F5F7FC" font-weight="700" font-size="40">TRIO</text>
+<text x="21" y="122" fill="#9CAAC0" font-weight="500" font-size="12" letter-spacing="2">ONE GRID. THREE RULES.</text>
+<rect x="326" y="62" width="44" height="44" rx="12" fill="#192337" stroke="#344158"/>
+<g stroke="#9CAAC0" stroke-width="2" stroke-linecap="round"><path d="M338 74H358M338 84H358M338 94H358"/></g>
+<g fill="#192337" stroke="#F5F7FC" stroke-width="2"><circle cx="344" cy="74" r="3"/><circle cx="352" cy="84" r="3"/><circle cx="346" cy="94" r="3"/></g>
+<g transform="translate(55 168)">
+<rect width="280" height="280" rx="16" fill="#151F31" stroke="#344158"/>
+<g stroke="#344158" stroke-opacity=".5" stroke-width="1">
+<path d="M28 0V280M0 28H280"/>
+<path d="M56 0V280M0 56H280"/>
+<path d="M84 0V280M0 84H280"/>
+<path d="M112 0V280M0 112H280"/>
+<path d="M140 0V280M0 140H280"/>
+<path d="M168 0V280M0 168H280"/>
+<path d="M196 0V280M0 196H280"/>
+<path d="M224 0V280M0 224H280"/>
+<path d="M252 0V280M0 252H280"/>
+</g>
+<rect x="2" y="198" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="2" y="226" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="2" y="254" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="30" y="254" width="24" height="24" rx="4" fill="#B39AFA"/>
+<rect x="58" y="254" width="24" height="24" rx="4" fill="#B39AFA"/>
+<rect x="30" y="226" width="24" height="24" rx="4" fill="#B39AFA"/>
+<rect x="58" y="226" width="24" height="24" rx="4" fill="#B39AFA"/>
+<rect x="58" y="198" width="24" height="24" rx="4" fill="#B39AFA"/>
+<rect x="86" y="254" width="24" height="24" rx="4" fill="#F7B955"/>
+<rect x="114" y="254" width="24" height="24" rx="4" fill="#F7B955"/>
+<rect x="142" y="254" width="24" height="24" rx="4" fill="#F7B955"/>
+<rect x="86" y="226" width="24" height="24" rx="4" fill="#F7B955"/>
+<rect x="142" y="226" width="24" height="24" rx="4" fill="#F7B955"/>
+<rect x="170" y="254" width="24" height="24" rx="4" fill="#5BD5A4"/>
+<rect x="198" y="254" width="24" height="24" rx="4" fill="#5BD5A4"/>
+<rect x="198" y="226" width="24" height="24" rx="4" fill="#5BD5A4"/>
+<rect x="226" y="254" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="226" y="226" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="254" y="226" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="142" y="30" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="114" y="58" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="142" y="58" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="170" y="58" width="24" height="24" rx="4" fill="#34D6ED"/>
+<rect x="142" y="86" width="24" height="24" rx="4" fill="#34D6ED"/>
+</g>
+<text x="195" y="520" fill="#9CAAC0" font-weight="500" font-size="12" text-anchor="middle" letter-spacing="2">SELECT YOUR MODE</text>
+<rect x="20" y="544" width="106" height="128" rx="16" fill="#192337" stroke="#34D6ED" stroke-width="1.5"/>
+<g transform="translate(73 590)" stroke="#34D6ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M-16 0H16M-9 -7L-16 0L-9 7M9 -7L16 0L9 7"/></g>
+<text x="73" y="634" font-weight="700" font-size="16" text-anchor="middle" fill="#F5F7FC">SHIFT</text>
+<text x="73" y="656" font-weight="500" font-size="12" text-anchor="middle" fill="#9CAAC0" letter-spacing="1">GRAVITY</text>
+<rect x="142" y="544" width="106" height="128" rx="16" fill="#192337" stroke="#B39AFA" stroke-width="1.5"/>
+<g transform="translate(195 590)"><rect x="-16" y="-16" width="18" height="18" rx="3" fill="#B39AFA"/><rect x="-2" y="-2" width="18" height="18" rx="3" fill="none" stroke="#B39AFA" stroke-width="2" stroke-dasharray="4 3"/></g>
+<text x="195" y="634" font-weight="700" font-size="16" text-anchor="middle" fill="#F5F7FC">ECHO</text>
+<text x="195" y="656" font-weight="500" font-size="12" text-anchor="middle" fill="#9CAAC0" letter-spacing="1">TIME</text>
+<rect x="264" y="544" width="106" height="128" rx="16" fill="#192337" stroke="#F7B955" stroke-width="1.5"/>
+<g transform="translate(317 590)"><rect x="-16" y="-16" width="14" height="14" rx="3" fill="#F7B955"/><rect x="2" y="-16" width="14" height="14" rx="3" fill="#F7B955"/><rect x="-16" y="2" width="14" height="14" rx="3" fill="#F7B955"/><rect x="3" y="3" width="12" height="12" rx="3" fill="none" stroke="#F7B955" stroke-width="2"/></g>
+<text x="317" y="634" font-weight="700" font-size="16" text-anchor="middle" fill="#F5F7FC">MICRO</text>
+<text x="317" y="656" font-weight="500" font-size="12" text-anchor="middle" fill="#9CAAC0" letter-spacing="1">QUICK</text>
+</svg>
